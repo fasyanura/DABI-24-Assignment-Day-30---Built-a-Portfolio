@@ -2,8 +2,7 @@
 
 ## Data Analyst Portfolio
 
-A portfolio built from the Data Analytics Bootcamp at Dibimbing.id, where i made my own dashboard using PowerBI and make this
-as a *Data Story-Telling Portfolio*
+A portfolio built from the Assignment Day 30 (Built a Portfolio) - Data Analytics Bootcamp at Dibimbing.id, where i made my own dashboard using PowerBI and make this as a *Data Story-Telling Portfolio*
 
 ## What's Inside
 
